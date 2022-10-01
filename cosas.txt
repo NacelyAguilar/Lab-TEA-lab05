@@ -1,0 +1,5 @@
+pizarra
+portatil
+mesas
+pupitres
+ventana
